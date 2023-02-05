@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33027.239
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentEnrollment.API", "StudentEnrollmentAPI\StudentEnrollment.API.csproj", "{F09169C0-DE93-414E-89CE-BC1371BF7220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentEnrollment.DATA", "StudentEnrollment.Data\StudentEnrollment.DATA.csproj", "{75008C60-D3EE-4490-B77D-BEC68635BD81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F09169C0-DE93-414E-89CE-BC1371BF7220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09169C0-DE93-414E-89CE-BC1371BF7220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09169C0-DE93-414E-89CE-BC1371BF7220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09169C0-DE93-414E-89CE-BC1371BF7220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75008C60-D3EE-4490-B77D-BEC68635BD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75008C60-D3EE-4490-B77D-BEC68635BD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75008C60-D3EE-4490-B77D-BEC68635BD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75008C60-D3EE-4490-B77D-BEC68635BD81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64C2FE41-767C-4874-8C34-E85668B06ED1}
+	EndGlobalSection
+EndGlobal
